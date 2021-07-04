@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: purple;
+}
+.color{
+    color: orange;
+}
+h3{
+    background-color: skyblue;
+    font-size: 25px;
+
+}
+.fr-color{
+    color: rgb(89, 0, 255);
+}
+.one{
+    color: rgb(173, 13, 13);
+    font-size: 25px;
+}
+section{
+    display: flex;
+}
+.hello{
+    width: 50%;
+    padding: 2%;
+}
+.hello img{
+    width: 80%;
+}
+.batton{
+    text-decoration: none;
+    background:mediumseagreen;
+    border-size: 50px;
+    border-radius: 2px;
+}
